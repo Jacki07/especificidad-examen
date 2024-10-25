@@ -1,0 +1,50 @@
+*, *::after, *::before{
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(100, 99, 99);
+}
+
+h1{
+    color: blue;
+}
+
+h2{
+    color: blueviolet;
+}
+
+p{
+    color: brown;
+}
+
+.palab1{
+    background-color: aliceblue;
+    font-size: 0.5em;
+}
+
+.palab2{
+    font-size: 2em;
+    background-color: rgb(158, 204, 231);
+}
+
+.palab3{
+    background-color: rgb(158, 204, 231);
+}
+
+#pulpo{
+    border-radius: 50%;
+    border: solid 50px ;
+    border-color: rgb(53, 53, 104);
+    background-color: rgb(148, 217, 219);
+}
+
+#cafe.palab2 {
+    font-size: 1em;
+    text-align: center;
+}
+
+#aguacate{
+    font-size: 3em;
+    background-color: aqua !important; 
+}
+
